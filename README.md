@@ -13,5 +13,5 @@ A list of the updates I have made to the IronMON patch for Pokémon Platinum.<br
 | **Fixed Rival 2 Bug** | Previous versions of the Platinum IronMON patch made it so that the player can battle Barry to the east of Jubilife **BEFORE** talking to him in the trainer school. This breaks the flow of the vanilla game, as Looker should send you to the school before heading onto Route 203. This gives the player more options to pivot than they should have before clearing vital story progression. | ✅ |
 | **Fashion IronMON** | The Fashion Case will be fully stocked for your contests. | ✅ |
 | **Tuckkable Beds** | Fully heal your party in bed! | ✅ |
-| **Morning/ Night Trainers** | Standardised trainers to not require a specific time to battle them. |  |
+| **Morning/ Night Trainers** | Standardised trainers to not require a specific time to battle them. | ✅ |
 | **Marsh Area NPC** | The Marsh Area has an awkward pool of Pokémon for pivoting in Super Kaizo. I have added an NPC to skip 24 hours forward to enable Super Kaizo runners to see all the options. |  |
