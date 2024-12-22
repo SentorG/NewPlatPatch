@@ -1,5 +1,5 @@
 # Platinum IronMON - GIGA Patch Updates
-A list of the updates I have made to the IronMON patch for Pokémon Platinum.<br><br>A big thanks to PyroMike for all his help and Arex for initially making the first changes. Many thanks to Toxxxyn for his help and support when I was streaming the patch development in my Discord server. Lastly, a big thanks to all the streamers who helped me test the early release of the patch. We had two people win with it!!
+A list of the updates I have made to the IronMON patch for Pokémon Platinum.<br><br>A big thanks to PyroMike for all his help and Arex for initially making the first changes. Many thanks to Toxxxyn for his help and support when I was streaming the patch development in my Discord server. Lastly, a big thanks to all the streamers who helped me test the early release of the first patch. We had two people win with it!!
 <br><br>
 I have added snow falling in Twinleaf town (because it's a vibe) but this does technically give an IronMON runner a slight advantage if the fishing pivot has Magic Guard, Ice Body or Snow Cloak.<br>As there might be some controversy over whether this should be included, I have created a snowy version **AND** a clean version. The version with snow included will be specified at the start of the file name in the releases as **"snowy"**.
 <br><br>
