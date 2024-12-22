@@ -20,4 +20,6 @@ To patch your legally acquired Pokémon Platinum ROM, go to **https://www.marcro
 | **Fashion IronMON** | The Fashion Case will be fully stocked for your contests. | ✅ |
 | **Tuckkable Beds** | The bed in the players' bedroom and the bed in the house outside Eterna forest will now fully heal your party. | ✅ |
 | **Time-based Trainers** | Standardised Joggers, Policemen and the Seven Stars Restaurant to battle at any time of the day. | ✅ |
-| **Marsh Area NPC** | The Marsh Area has an awkward pool of Pokémon for pivoting in Super Kaizo. I have added an NPC in the foyer to manipulate the time without having to touch the emulator settings.<br>**COMING IN A FUTURE UPDATE**. |  |
+| **Fixed 201 Potion NPC Bug** | The NPC who gives you a free Potion, when talked to twice, would occasionally crash the game. I have removed this NPC after talking to them once. | ✅ |
+| **Fixed Dex Acquisition Bug** | When talking to Dawn/Lucas in Sandgem, the game would crash if spamming buttons while still in the "pushed back" walk animation. I have fixed this so it cannot happen. | ✅ |
+| **Fixed Bike Shop Crash Bug** | When talking to the NPC who gives you the Bicycle again would crash the game. I have removed this NPC after talking to them once. | ✅ |
