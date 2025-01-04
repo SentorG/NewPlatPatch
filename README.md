@@ -23,4 +23,4 @@ To patch your legally acquired Pokémon Platinum ROM, go to **https://www.marcro
 | **Fixed 201 Potion NPC Bug** | The NPC who gives you a free Potion, when talked to twice, would occasionally crash the game. I have removed this NPC after talking to them once. | ✅ |
 | **Fixed Dex Acquisition Bug** | When talking to Dawn/Lucas in Sandgem, the game would crash if spamming buttons while still in the "pushed back" walk animation. I have fixed this so it cannot happen. | ✅ |
 | **Fixed Bike Shop Crash Bug** | When talking to the NPC who gives you the Bicycle a second time would crash the game. I have removed this NPC after talking to them once. | ✅ |
-| **Friendship NPC Uncapped** | Uncapped the previous 1 evolution limit on the friendship NPC in Sandgem. Only works on the first Pokémon in the party. Will not increase friendship for Pokémon who do not require it to evolve. | ✅ |
+| **Friendship NPC Uncapped** | Uncapped the previous 1 evolution limit on the friendship NPC in Sandgem. Only works on the first Pokémon in the party. | ✅ |
