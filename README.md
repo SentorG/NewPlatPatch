@@ -5,7 +5,7 @@ I have added snow falling in Twinleaf town (because it's a vibe) but this does t
 <br><br>
 Furthermore, I have included two versions of each patch- one with the Frame Limiter on and one with the Frame Limiter off. The patch with the file name **"FLX"** has the Frame Limiter turned off (fast).
 <br><br>
-To patch your legally acquired Pokémon Platinum ROM, go to **https://www.marcrobledo.com/RomPatcher.js/** and use the xDelta Patch of your choice provided in the release section.<br>**Please note:** this patch requires the **1.0 Version** of Platinum to work correctly.<br>If you find anything wrong with my patches, or have any suggestions for improvements, please let me know through my DMs on Discord. You can find me in the **[IronMON Discord server](https://discord.com/invite/jFPYsZAhjX) (user ID: sentor_g)**.
+To patch your legally acquired Pokémon Platinum ROM, go to **https://www.marcrobledo.com/RomPatcher.js/** and use the .xDelta patch of your choice provided in the release section.<br>**Please note:** this patch requires the **1.0 Version** of Platinum to work correctly.<br>If you find anything wrong with my patches, or have any suggestions for improvements, please let me know through my DMs on Discord. You can find me in the **[IronMON Discord server](https://discord.com/invite/jFPYsZAhjX) (user ID: sentor_g)**.
 ## Updates:
 | **Update** | **Details** | **Added?** |
 |:-:|:-|:-:|
