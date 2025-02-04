@@ -1,6 +1,8 @@
 # Platinum IronMON - GIGA Patch Updates
 A list of the updates I have made to the official IronMON patch for Pokémon Platinum.<br><br>A big thanks to PyroMike for all his help and Arex for initially making the first changes. Many thanks to Toxxxyn for his help and support when I was streaming the patch development in my Discord server. Lastly, a big thanks to all the streamers who helped me test the early release of the first patch. We had two people win with it!!
 <br><br>
+Check out the releases page [**here**](https://github.com/SentorG/NewPlatPatch/releases).
+<br><br>
 To patch your legally acquired Pokémon Platinum ROM, go to **https://www.marcrobledo.com/RomPatcher.js/** and use the .xDelta patch of your choice provided in the release section.<br>**Please note:** this patch requires the **1.0 Version** of Platinum to work correctly.<br>If you find anything wrong with my patches, or have any suggestions for improvements, please let me know through my DMs on Discord. You can find me in the **[IronMON Discord server](https://discord.com/invite/jFPYsZAhjX) (user ID: sentor_g)**.
 ## Updates:
 | **Update** | **Details** | **Added?** |
