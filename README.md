@@ -1,8 +1,6 @@
 # Platinum IronMON - GIGA Patch Updates
 A list of the updates I have made to the official IronMON patch for Pokémon Platinum.<br><br>A big thanks to PyroMike for all his help and Arex for initially making the first changes. Many thanks to Toxxxyn for his help and support when I was streaming the patch development in my Discord server. Lastly, a big thanks to all the streamers who helped me test the early release of the first patch. We had two people win with it!!
 <br><br>
-I have added snow falling in Twinleaf town (because it's a vibe) but this does technically give an IronMON runner a slight advantage if the fishing pivot has Magic Guard, Ice Body or Snow Cloak.<br>As there might be some controversy over whether this should be included, I have created a snowy version **AND** a clean version. The version with snow included will be specified at the start of the file name in the releases as **"snowy"**.
-<br><br>
 Furthermore, I have included two versions of each patch- one with the Frame Limiter on and one with the Frame Limiter off. The patch with the file name **"FLX"** has the Frame Limiter turned off (fast).
 <br><br>
 To patch your legally acquired Pokémon Platinum ROM, go to **https://www.marcrobledo.com/RomPatcher.js/** and use the .xDelta patch of your choice provided in the release section.<br>**Please note:** this patch requires the **1.0 Version** of Platinum to work correctly.<br>If you find anything wrong with my patches, or have any suggestions for improvements, please let me know through my DMs on Discord. You can find me in the **[IronMON Discord server](https://discord.com/invite/jFPYsZAhjX) (user ID: sentor_g)**.
@@ -24,3 +22,9 @@ To patch your legally acquired Pokémon Platinum ROM, go to **https://www.marcro
 | **Fixed Dex Acquisition Bug** | When talking to Dawn/Lucas in Sandgem, the game would crash if spamming buttons while still in the "pushed back" walk animation. I have fixed this so it cannot happen. | ✅ |
 | **Fixed Bike Shop Crash Bug** | When talking to the NPC who gives you the Bicycle a second time would crash the game. I have removed this NPC after talking to them once. | ✅ |
 | **Friendship NPC Uncapped** | Uncapped the previous 1 evolution limit on the friendship NPC in Sandgem. Only works on the first Pokémon in the party. | ✅ |
+
+### I have added snow falling in Twinleaf town (because it's a vibe) but this does technically give an IronMON runner a slight advantage if the fishing pivot has Magic Guard, Ice Body or Snow Cloak. As there might be some controversy over whether this should be included, I have created a snowy version AND a clean version.
+
+## File names breakdown:
+- **FLX** - The frame limiter has been turned off. The game runs smoothly but faster.
+- Snowy - Adds slow, falling snow to Twinleaf Town.
